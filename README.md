@@ -95,9 +95,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+R4V3N - [@R4v3nir](https://t.me/R4v3nir) - mrrobotha3@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/R4V3NIR/Raven-Language-Translator](https://github.com/R4V3NIR/Raven-Language-Translator)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
