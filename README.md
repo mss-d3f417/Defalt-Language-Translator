@@ -21,12 +21,6 @@ R4V3N GUI Language Translator
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -34,7 +28,7 @@ R4V3N GUI Language Translator
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://s8.uupload.ir/files/77744999_t1ho.png" alt="Logo" width="80" height="80">
+    <img src="https://s8.uupload.ir/files/77744999_t1ho.png" alt="Logo" width="90" height="90">
   </a>
 
   <h3 align="center">GUI Language Translator</h3>
