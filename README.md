@@ -61,14 +61,7 @@ To successfully build this application, we will use ttkbootstrap, googletrans, p
 
 ### Built With
 
-* [![Python][Python.js]][Python-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+Python - application, we will use ttkbootstrap, googletrans, pyttsx3, tkinter, and pyperclip libraries.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,15 +70,12 @@ To successfully build this application, we will use ttkbootstrap, googletrans, p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Install Required Libraries
   ```sh
-  npm install npm@latest -g
+  $ pip install ttkbootstrap googletrans==3.1.0a0 pyttsx3 pyperclip
   ```
 
 ### Installation
