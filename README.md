@@ -37,10 +37,10 @@
     <br />
     <br />
     <br />
+    
+    <a href="mrrobotha3@gmail.com">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://discord.gg/cyRpq28N">Discord Server</a>
   </p>
 </div>
 
