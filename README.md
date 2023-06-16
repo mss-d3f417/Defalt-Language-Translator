@@ -61,7 +61,7 @@ To successfully build this application, we will use ttkbootstrap, googletrans, p
 
 ### Built With
 
-* [![Next][Python.js]][Python-url]
+* [![Python][Python.js]][Python-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
