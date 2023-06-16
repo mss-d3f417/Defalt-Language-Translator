@@ -28,7 +28,7 @@ R4V3N GUI Language Translator
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://s8.uupload.ir/files/77744999_t1ho.png" alt="Logo" width="90" height="90">
+    <img src="https://s8.uupload.ir/files/logo_o143.png" alt="Logo" width="90" height="90">
   </a>
 
   <h3 align="center">GUI Language Translator</h3>
