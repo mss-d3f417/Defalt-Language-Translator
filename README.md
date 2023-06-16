@@ -1,5 +1,4 @@
 # Raven-Language-Translator
-R4V3N GUI Language Translator
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -36,10 +35,8 @@ R4V3N GUI Language Translator
   <p align="center">
     GUI Language Translator With Python By R4V3N ! 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
