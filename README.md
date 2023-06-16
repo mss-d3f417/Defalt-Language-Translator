@@ -51,16 +51,9 @@
 
 ![](https://s8.uupload.ir/files/bandicam_2023-06-16_00-06-05-258_0mle.gif)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+In this day and age where we have businesses going digital, we have witnessed the rapid adoption of online language translator applications. These applications have come in handy where for example you want to view and read content online in your local language, or maybe you are learning a new language so you need a translator. So before we build our language translator, let us understand what it is. A language translator application is an application that translates one language into another language, for example, translating French into English.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+To successfully build this application, we will use ttkbootstrap, googletrans, pyttsx3, tkinter, and pyperclip libraries.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
