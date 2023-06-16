@@ -37,7 +37,7 @@
     <br />
     <br />
     <br />
-    
+    .
     <a href="mrrobotha3@gmail.com">Report Bug</a>
     ·
     <a href="https://discord.gg/cyRpq28N">Discord Server</a>
