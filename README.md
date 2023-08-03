@@ -41,7 +41,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![](https://s8.uupload.ir/files/bandicam_2023-06-16_00-06-05-258_0mle.gif)
 
 In this day and age where we have businesses going digital, we have witnessed the rapid adoption of online language translator applications. These applications have come in handy where for example you want to view and read content online in your local language, or maybe you are learning a new language so you need a translator. So before we build our language translator, let us understand what it is. A language translator application is an application that translates one language into another language, for example, translating French into English.
 
