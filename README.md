@@ -22,14 +22,6 @@
 -->
 
 
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://s8.uupload.ir/files/logo_o143.png" alt="Logo" width="90" height="90">
-  </a>
-
   <h3 align="center">GUI Language Translator</h3>
 
   <p align="center">
