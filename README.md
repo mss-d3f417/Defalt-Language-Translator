@@ -73,7 +73,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/R4V3NIR/Raven-Language-Translator.git
+   git clone https://github.com/mrd3f417/MR.Defalt-Language-Translator.git
    ```
 2. Run 
    ```sh
