@@ -25,7 +25,7 @@
   <h3 align="center">GUI Language Translator</h3>
 
   <p align="center">
-    GUI Language Translator With Python By R4V3N ! 
+    GUI Language Translator With Python By D3F417 ! 
     <br />
     <br />
     <br />
@@ -86,9 +86,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-R4V3N - [@R4v3nir](https://t.me/R4v3nir) - mrrobotha3@gmail.com
+D3F417 - [@D3F417ir](https://t.me/D3F417ir) - mrrobotha3@gmail.com
 
-Project Link: [https://github.com/R4V3NIR/Raven-Language-Translator](https://github.com/R4V3NIR/Raven-Language-Translator)
+Project Link: [https://github.com/D3F417IR/Raven-Language-Translator](https://github.com/D3F417IR/Raven-Language-Translator)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
