@@ -1,6 +1,6 @@
-# CR : R4V3N
-# Disocrd : R4V3N#4734
-# Telegram : https://t.me/itsravenir
+# CR : D3F417
+# Disocrd : d3f417ir
+# Telegram : https://t.me/d3f417ch
 
 import ttkbootstrap as ttk
 from ttkbootstrap.scrolled import ScrolledText
